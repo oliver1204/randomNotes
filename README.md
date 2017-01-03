@@ -19,5 +19,5 @@
 
 [postcss](https://github.com/olifer655/randomNotes/issues/13)
 
-[正则总结](https://github.com/olifer655/randomNotes/issues/15)
+[正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
 
