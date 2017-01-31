@@ -26,6 +26,8 @@
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
+* [日常组件](https://github.com/olifer655/my-components)
+
 
 ### 其他
 
