@@ -39,5 +39,7 @@
 
 * [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
 
+* [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
+
 * [commonJS](https://github.com/olifer655/commonJS)
 
