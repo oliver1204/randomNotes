@@ -26,8 +26,14 @@
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
+
 * [日常组件](https://github.com/olifer655/my-components)
 
+### 正则
+
+* [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
+
+* [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
 ### 其他
 
@@ -36,10 +42,6 @@
 * [JSON 必知必会](https://github.com/olifer655/randomNotes/issues/10)
 
 * [postcss](https://github.com/olifer655/randomNotes/issues/13)
-
-* [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
-
-* [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
 * [commonJS](https://github.com/olifer655/commonJS)
 
