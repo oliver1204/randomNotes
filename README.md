@@ -45,3 +45,5 @@
 
 * [commonJS](https://github.com/olifer655/commonJS)
 
+* [manifest专场](https://github.com/olifer655/randomNotes/issues/27)
+
