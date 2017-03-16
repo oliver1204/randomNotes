@@ -47,5 +47,4 @@
 
 * [manifest专场](https://github.com/olifer655/randomNotes/issues/27)
 
-* [Vue.js 2.0 独立构建和运行时构建的区别](http://www.tuicool.com/articles/3iAfu2n)
-
+* [angularjs 双向绑定](https://github.com/olifer655/randomNotes/issues/32)
