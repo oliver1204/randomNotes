@@ -48,3 +48,5 @@
 * [manifest专场](https://github.com/olifer655/randomNotes/issues/27)
 
 * [angularjs 双向绑定](https://github.com/olifer655/randomNotes/issues/32)
+
+* [IE兼容性问题](https://github.com/olifer655/randomNotes/issues/34)
