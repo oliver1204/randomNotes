@@ -52,3 +52,5 @@
 * [angularjs 双向绑定](https://github.com/olifer655/randomNotes/issues/32)
 
 * [IE兼容性问题](https://github.com/olifer655/randomNotes/issues/34)
+
+* [修改gitLab的默认端口号](https://github.com/olifer655/randomNotes/issues/36) 
