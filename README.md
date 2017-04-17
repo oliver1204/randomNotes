@@ -19,6 +19,8 @@
 
 * [分析 makefile 文件](https://github.com/olifer655/randomNotes/issues/8)
 
+* [webpack + express 的配置插件](https://github.com/olifer655/randomNotes/issues/37)
+
 ### HTTP相关
 
 * [http-cache](https://github.com/olifer655/http-cache)
