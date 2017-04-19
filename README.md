@@ -55,4 +55,4 @@
 
 * [修改gitLab的默认端口号](https://github.com/olifer655/randomNotes/issues/36)
 
-* [dpr 问题](htmlWebpackPlugin.files.chunks)
+* [dpr 问题](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
