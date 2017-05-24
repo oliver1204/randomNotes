@@ -56,3 +56,5 @@
 * [修改gitLab的默认端口号](https://github.com/olifer655/randomNotes/issues/36)
 
 * [dpr 问题](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+
+* [谈‘腾讯推出自研图片编码格式TPG’](https://github.com/olifer655/randomNotes/issues/41)
