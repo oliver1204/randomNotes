@@ -25,6 +25,14 @@
 
 * [http-cache](https://github.com/olifer655/http-cache)
 
+* [http(一)](https://github.com/olifer655/randomNotes/issues/42)
+
+* [http(二)](https://github.com/olifer655/randomNotes/issues/43)
+
+* [http(三)](https://github.com/olifer655/randomNotes/issues/44)
+
+* [HTTP (四) -- FormData](https://github.com/olifer655/randomNotes/issues/46)
+
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
