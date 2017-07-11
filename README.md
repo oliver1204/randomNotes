@@ -31,6 +31,8 @@
 
 * [http(三)](https://github.com/olifer655/randomNotes/issues/44)
 
+* [HTTP (四) -- FormData](https://github.com/olifer655/randomNotes/issues/46)
+
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
