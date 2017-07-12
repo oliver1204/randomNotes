@@ -33,6 +33,8 @@
 
 * [HTTP (四) -- FormData](https://github.com/olifer655/randomNotes/issues/46)
 
+* [GET 和 POST 请求的区别](https://github.com/olifer655/randomNotes/issues/47)
+
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
