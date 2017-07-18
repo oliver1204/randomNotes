@@ -35,7 +35,7 @@
 
 * [GET 和 POST 请求的区别](https://github.com/olifer655/randomNotes/issues/47)
 
-* [影响首屏加载的原因]--赞http2(https://github.com/olifer655/randomNotes/issues/50)
+* [影响首屏加载的原因--赞http2](https://github.com/olifer655/randomNotes/issues/50)
 
 ### 框架
 
