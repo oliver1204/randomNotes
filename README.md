@@ -59,7 +59,7 @@
 
 * [commonJS](https://github.com/olifer655/commonJS)
 
-* [manifest专场](https://github.com/olifer655/randomNotes/issues/27)
+* [缓存](https://github.com/olifer655/randomNotes/issues/27)
 
 * [angularjs 双向绑定](https://github.com/olifer655/randomNotes/issues/32)
 
