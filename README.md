@@ -49,6 +49,11 @@
 
 * [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
+### vue源码learning
+* [vue 源码分析 － watch](https://github.com/olifer655/randomNotes/issues)
+
+* [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
+
 ### 其他
 
 * [CSS 伪类和伪元素（ : 与 ::） 区别](https://github.com/olifer655/randomNotes/issues/3)
@@ -71,4 +76,4 @@
 
 * [谈‘腾讯推出自研图片编码格式TPG’](https://github.com/olifer655/randomNotes/issues/41)
 
-* [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
+
