@@ -50,7 +50,7 @@
 * [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
 ### vue源码learning
-* [vue 源码分析 － watch](https://github.com/olifer655/randomNotes/issues)
+* [vue 源码分析 － watch](https://github.com/olifer655/randomNotes/issues/58)
 
 * [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
 
