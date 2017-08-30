@@ -76,5 +76,4 @@
 
 * [谈‘腾讯推出自研图片编码格式TPG’](https://github.com/olifer655/randomNotes/issues/41)
 
-* [node 版本升级](https://github.com/olifer655/randomNotes/issues/56)
-
+* [node 版本升级的方式](https://github.com/olifer655/randomNotes/issues/56)
