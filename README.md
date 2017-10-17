@@ -54,6 +54,11 @@
 
 * [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
 
+### 配置
+* [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
+
+* [git add SSH](https://github.com/olifer655/randomNotes/issues/64)
+
 ### 其他
 
 * [CSS 伪类和伪元素（ : 与 ::） 区别](https://github.com/olifer655/randomNotes/issues/3)
