@@ -56,6 +56,8 @@
 
 * [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
 
+* [vdom 虚拟DOM](https://github.com/olifer655/randomNotes/issues/63)
+
 ### 配置
 * [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
 
