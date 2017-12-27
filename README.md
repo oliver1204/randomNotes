@@ -21,7 +21,7 @@
 
 * [webpack + express 的配置插件](https://github.com/olifer655/randomNotes/issues/37)
 
-* [webpack要点](https://github.com/olifer655/randomNotes/issues/60)
+* [webpack 相关知识点以及 常用插件](https://github.com/olifer655/randomNotes/issues/60)
 
 ### HTTP相关
 
