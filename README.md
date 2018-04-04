@@ -23,6 +23,8 @@
 
 * [webpack 相关知识点以及 常用插件](https://github.com/olifer655/randomNotes/issues/60)
 
+* [Webpack的dll功能](https://github.com/olifer655/randomNotes/issues/72)
+
 ### HTTP相关
 
 * [http-cache](https://github.com/olifer655/http-cache)
