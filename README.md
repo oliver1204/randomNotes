@@ -47,6 +47,8 @@
 
 * [日常组件](https://github.com/olifer655/my-components)
 
+* [Promise 原理](https://github.com/olifer655/randomNotes/issues/74)
+
 ### 正则
 
 * [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
