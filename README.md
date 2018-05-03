@@ -47,6 +47,8 @@
 
 * [日常组件](https://github.com/olifer655/my-components)
 
+* [fetch 存在的问题及封装](https://github.com/olifer655/randomNotes/issues/76)
+
 ### 正则
 
 * [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
