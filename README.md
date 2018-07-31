@@ -95,3 +95,5 @@
 * [node 版本升级的方式](https://github.com/olifer655/randomNotes/issues/56)
 
 * [new Date 方法总结](https://github.com/olifer655/randomNotes/issues/76)
+
+* [Fabric.js 简单介绍和使用](https://github.com/olifer655/randomNotes/issues/80)
