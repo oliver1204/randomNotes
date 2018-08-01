@@ -67,6 +67,10 @@
 ### react相关知识点
 * [redux](https://github.com/olifer655/redux)
 
+* [vue, react, 小程序 子父组件间的通讯](https://github.com/olifer655/randomNotes/issues/78)
+
+* [react](https://github.com/olifer655/react)
+
 ### 配置
 * [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
 
