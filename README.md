@@ -67,6 +67,8 @@
 ### react相关知识点
 * [redux](https://github.com/olifer655/redux)
 
+* [react 其他知识点](https://github.com/olifer655/react)
+
 ### 配置
 * [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
 
