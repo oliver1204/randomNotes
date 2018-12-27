@@ -25,6 +25,8 @@
 
 * [Webpack的dll功能](https://github.com/olifer655/randomNotes/issues/72)
 
+* [webpack ^4.0 常用配置总结](https://github.com/olifer655/webpackSummery/issues/6)
+
 ### HTTP相关
 
 * [http-cache](https://github.com/olifer655/http-cache)
