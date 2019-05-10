@@ -14,6 +14,8 @@
 
 * [《高性能网站建设指南》（二）-- 网站优化的方式](https://github.com/olifer655/randomNotes/issues/7)
 
+* [关键渲染路径优化](https://github.com/olifer655/randomNotes/issues/86)
+
 ### 项目构建
 * [为什么要用 webpack](https://github.com/olifer655/webpackSummery)
 
