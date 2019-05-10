@@ -15,7 +15,7 @@
 * [《高性能网站建设指南》（二）-- 网站优化的方式](https://github.com/olifer655/randomNotes/issues/7)
 
 ### 项目构建
-* [webpack](https://github.com/olifer655/webpackSummery)
+* [为什么要用 webpack](https://github.com/olifer655/webpackSummery)
 
 * [分析 makefile 文件](https://github.com/olifer655/randomNotes/issues/8)
 
@@ -24,6 +24,10 @@
 * [webpack 相关知识点以及 常用插件](https://github.com/olifer655/randomNotes/issues/60)
 
 * [Webpack的dll功能](https://github.com/olifer655/randomNotes/issues/72)
+
+* [webpack ^4.0 常用配置总结](https://github.com/olifer655/webpackSummery/issues/6)
+
+* [babel](https://github.com/olifer655/randomNotes/issues/85)
 
 ### HTTP相关
 
@@ -71,12 +75,18 @@
 
 * [react](https://github.com/olifer655/react)
 
+* [react 其他知识点](https://github.com/olifer655/react)
+
 ### 配置
 * [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
 
 * [git add SSH](https://github.com/olifer655/randomNotes/issues/64)
 
 ### 其他
+
+* [My-blog](https://github.com/olifer655/My-blog)
+
+* [如何写好 if 条件语句？](https://github.com/olifer655/randomNotes/issues/83)
 
 * [CSS 伪类和伪元素（ : 与 ::） 区别](https://github.com/olifer655/randomNotes/issues/3)
 
