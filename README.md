@@ -55,6 +55,8 @@
 
 * [fetch 存在的问题及封装](https://github.com/olifer655/randomNotes/issues/76)
 
+* [PWA](https://github.com/olifer655/randomNotes/issues/88)
+
 ### E6+
 
 * [Promise 原理](https://github.com/olifer655/randomNotes/issues/74)
