@@ -55,7 +55,11 @@
 
 * [fetch 存在的问题及封装](https://github.com/olifer655/randomNotes/issues/76)
 
+### E6+
+
 * [Promise 原理](https://github.com/olifer655/randomNotes/issues/74)
+
+* [async/await 函数](https://github.com/olifer655/randomNotes/issues/87)
 
 ### 正则
 
