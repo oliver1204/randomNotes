@@ -16,6 +16,8 @@
 
 * [关键渲染路径优化](https://github.com/olifer655/randomNotes/issues/86)
 
+* [JavaScript编译原理与内存管理](https://github.com/olifer655/randomNotes/issues/89)
+
 ### 项目构建
 * [为什么要用 webpack](https://github.com/olifer655/webpackSummery)
 
