@@ -18,6 +18,10 @@
 
 * [JavaScript编译原理与内存管理](https://github.com/olifer655/randomNotes/issues/89)
 
+### Dan Abramov 博客翻译
+
+* [How Does React Tell a Class from a Function ？](https://github.com/olifer655/randomNotes/issues/90)
+
 ### 项目构建
 * [为什么要用 webpack](https://github.com/olifer655/webpackSummery)
 
