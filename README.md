@@ -43,13 +43,9 @@
 
 * [http-cache](https://github.com/olifer655/http-cache)
 
-* [http(一)-- 网络基础 TCP/IP](https://github.com/olifer655/randomNotes/issues/42)
+* [http 基础知识](https://github.com/olifer655/randomNotes/issues/42）
 
-* [http(二)-- 代理、网关、隧道](https://github.com/olifer655/randomNotes/issues/43)
-
-* [http(三)-- HTTP头部信息](https://github.com/olifer655/randomNotes/issues/44)
-
-* [HTTP (四) -- FormData](https://github.com/olifer655/randomNotes/issues/46)
+* [正向代理和反响代理](https://github.com/olifer655/randomNotes/issues/91)
 
 * [GET 和 POST 请求的区别](https://github.com/olifer655/randomNotes/issues/47)
 
