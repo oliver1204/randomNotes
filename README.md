@@ -92,7 +92,7 @@
 
 ### 其他
 
-* [全站之路其修远兮](https://github.com/olifer655/gogogo/blob/master/README.md)
+* [全站之路其修远兮 gogogo](https://github.com/olifer655/gogogo/blob/master/README.md)
 
 * [My-blog](https://github.com/olifer655/My-blog)
 
