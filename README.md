@@ -80,6 +80,8 @@
 
 * [vdom 虚拟DOM](https://github.com/olifer655/randomNotes/issues/63)
 
+* [VueConf 3.0 尤雨溪 演讲](https://github.com/olifer655/randomNotes/issues/93)
+
 ### react相关知识点
 * [redux](https://github.com/olifer655/redux)
 
