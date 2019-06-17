@@ -96,6 +96,8 @@
 
 * [全站之路其修远兮 gogogo](https://github.com/olifer655/gogogo/blob/master/README.md)
 
+* [H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389)
+
 * [My-blog](https://github.com/olifer655/My-blog)
 
 * [如何写好 if 条件语句？](https://github.com/olifer655/randomNotes/issues/83)
