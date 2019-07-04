@@ -51,6 +51,8 @@
 
 * [影响首屏加载的原因--赞http2](https://github.com/olifer655/randomNotes/issues/50)
 
+* [在浏览器地址栏输入回车键， 后面都发生了什么？](https://github.com/olifer655/randomNotes/issues/94)
+
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
