@@ -53,6 +53,8 @@
 
 * [在浏览器地址栏输入回车键， 后面都发生了什么？](https://github.com/olifer655/randomNotes/issues/94)
 
+* [HTTP Cookie 技术 ](https://github.com/olifer655/randomNotes/issues/95)
+
 ### 框架
 
 * [flex](https://github.com/olifer655/lib-flexible)
