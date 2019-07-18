@@ -1,6 +1,24 @@
 # randomNotes
 用来记录平时的日常总结
 
+### vue 
+* [vue 相关知识点](https://github.com/olifer655/MVVM/blob/master/README.md)
+
+### react相关知识点
+* [redux](https://github.com/olifer655/redux)
+
+* [react 其他知识点](https://github.com/olifer655/react)
+
+### E6+
+
+* [Promise 相关知识点](https://github.com/olifer655/promise)
+
+### Dan Abramov 博客翻译
+
+* [How Does React Tell a Class from a Function ？](https://github.com/olifer655/randomNotes/issues/90)
+
+* [Overreacted](https://overreacted.io/)
+
 ### 数据结构
 
 * [《学习javascript数据结构和算法》—— 字典和散列表](https://github.com/olifer655/randomNotes/issues/2)
@@ -17,12 +35,6 @@
 * [关键渲染路径优化](https://github.com/olifer655/randomNotes/issues/86)
 
 * [JavaScript编译原理与内存管理](https://github.com/olifer655/randomNotes/issues/89)
-
-### Dan Abramov 博客翻译
-
-* [How Does React Tell a Class from a Function ？](https://github.com/olifer655/randomNotes/issues/90)
-
-* [Overreacted](https://overreacted.io/)
 
 ### 项目构建
 * [为什么要用 webpack](https://github.com/olifer655/webpackSummery)
@@ -65,23 +77,11 @@
 
 * [PWA](https://github.com/olifer655/randomNotes/issues/88)
 
-### E6+
-
-* [Promise 相关知识点](https://github.com/olifer655/promise)
-
 ### 正则
 
 * [正则相关知识总结](https://github.com/olifer655/randomNotes/issues/15)
 
 * [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
-
-### vue 
-* [vue 相关知识点](https://github.com/olifer655/MVVM/blob/master/README.md)
-
-### react相关知识点
-* [redux](https://github.com/olifer655/redux)
-
-* [react 其他知识点](https://github.com/olifer655/react)
 
 ### 配置
 * [charles 证书配置](https://github.com/olifer655/randomNotes/issues/65)
