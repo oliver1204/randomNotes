@@ -75,14 +75,8 @@
 
 * [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
-### vue源码learning
-* [vue 源码分析 － watch](https://github.com/olifer655/randomNotes/issues/58)
-
-* [vue2 检测变化](https://github.com/olifer655/randomNotes/issues/59#render)
-
-* [vdom 虚拟DOM](https://github.com/olifer655/randomNotes/issues/63)
-
-* [VueConf 3.0 尤雨溪 演讲](https://github.com/olifer655/randomNotes/issues/93)
+### vue 
+* [vue](https://github.com/olifer655/MVVM/blob/master/README.md)
 
 ### react相关知识点
 * [redux](https://github.com/olifer655/redux)
