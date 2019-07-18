@@ -67,9 +67,7 @@
 
 ### E6+
 
-* [Promise 原理](https://github.com/olifer655/randomNotes/issues/74)
-
-* [async/await 函数](https://github.com/olifer655/randomNotes/issues/87)
+* [手写一个 Promise](https://github.com/olifer655/promise)
 
 ### 正则
 
