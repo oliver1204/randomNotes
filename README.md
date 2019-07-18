@@ -67,7 +67,7 @@
 
 ### E6+
 
-* [手写一个 Promise](https://github.com/olifer655/promise)
+* [Promise 相关知识点](https://github.com/olifer655/promise)
 
 ### 正则
 
@@ -76,7 +76,7 @@
 * [常用正则表达式](https://github.com/olifer655/randomNotes/issues/18)
 
 ### vue 
-* [vue](https://github.com/olifer655/MVVM/blob/master/README.md)
+* [vue 相关知识点](https://github.com/olifer655/MVVM/blob/master/README.md)
 
 ### react相关知识点
 * [redux](https://github.com/olifer655/redux)
