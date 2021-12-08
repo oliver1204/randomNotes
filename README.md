@@ -1,4 +1,7 @@
 用来记录平时的日常总结
+### 杂集
+
+* [杂集](https://github.com/olifer655/randomNotes/issues/96) 
 
 ### vue 
 * [vue 相关知识点](https://github.com/olifer655/MVVM/blob/master/README.md)
